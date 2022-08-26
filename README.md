@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 # Current Interestings:
 
+- Knot Theory
 - TDA (Topological Data Analysis)
 - DDG (Discrete Differential Geometry)
